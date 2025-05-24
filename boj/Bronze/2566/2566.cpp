@@ -3,8 +3,7 @@
 using namespace std;
 
 int main() {
-  int** row[] = new *int[9];
-  int* r[] = new int[9];
+  int table[9][9] = {0, };
 
   int temp;
 
@@ -21,7 +20,7 @@ int main() {
         maxC = j+1;
       }
 
-      r[i][j] = temp;
+      table[i][j] = temp;
     }
   }
 

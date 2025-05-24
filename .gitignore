@@ -1,0 +1,10 @@
+# manually ignored
+test.cpp
+
+*.out
+*.class
+
+.vscode
+makefile
+template.cpp
+

@@ -15,7 +15,6 @@ int main() {
         dohwazi[j][k]++;
       }
     }
-
   }
 
   int count=0;

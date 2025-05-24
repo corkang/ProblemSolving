@@ -31,7 +31,6 @@ int main()
     // cout << num->first << " : " << num->second << "번" << endl;
   }
 
-  cout << endl;
   cout << sum/10 << endl;
   cout << max_key << endl;
 
