@@ -42,6 +42,8 @@ int main() {
     */
   }
 
+  
+
   /*
   int num; int mul; int j;
   for(int i=0; i<sosu.size(); i++) {
@@ -77,6 +79,7 @@ int main() {
     cout << nums[i++] << "\n";
   }
   */
+
 
   return 0;
 }
